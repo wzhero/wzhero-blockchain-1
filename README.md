@@ -1,2 +1,3 @@
 # wzhero-blockchain-1
-hyperledger demo
+Tristan here. Linux junior. Pleasure to join and learn. This is first try on demo project hyperledger.
+Hope to get progress fast
